@@ -1,0 +1,23 @@
+{
+  "name": "commit_summary",
+  "version": "1.0.0",
+  "description": "Generate commit reports across multiple git projects",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davishyer/commit_summary.git"
+  },
+  "author": "Davis Hyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davishyer/commit_summary/issues"
+  },
+  "homepage": "https://github.com/davishyer/commit_summary#readme"
+}
